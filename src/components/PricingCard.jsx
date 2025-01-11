@@ -1,4 +1,3 @@
-import tag from "../assets/Tag1.svg";
 import coin from "../assets/Coin.png";
 
 const PricingCard = ({ title, type, price, features }) => {
