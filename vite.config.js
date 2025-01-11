@@ -13,7 +13,7 @@ export default defineConfig({
       overlay: true,
     },
     watch: {
-      usePolling: true, // این گزینه ممکنه مشکل شما رو حل کنه
+      usePolling: true,
     },
   },
 });
